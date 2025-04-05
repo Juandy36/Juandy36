@@ -1,4 +1,4 @@
-<h2 align="right">Hola 👋! Soy Juan Diego Ortiz, Programador Junior</h2>
+<h2 align="center">Hola 👋! Soy Juan Diego Ortiz, Programador Junior</h2>
 
 ###
 
@@ -47,10 +47,5 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Juandy36/Juandy36/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Juandy36/Juandy36/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Juandy36/Juandy36/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
