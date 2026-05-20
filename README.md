@@ -1,4 +1,4 @@
-<h1 align="left">Hola 👋! Soy Juan Diego Ortiz, Programador Junior</h1>
+<h1 align="left">Hola 👋! Soy Juan Diego Ortiz, Programador Trainee</h1>
 
 ###
 
