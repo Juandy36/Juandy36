@@ -1,61 +1,44 @@
-<h1 align="left">Hola 👋! Soy Juan Diego Ortiz, Full-Stack Developer</h1>
+<div align="center">
 
-###
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:bb9af7&height=140&section=header&text=Juan%20Diego%20Ortiz&fontSize=40&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Developer&descSize=18&descAlignY=65" alt="Juan Diego Ortiz, Full-Stack Developer" width="100%" />
+
+**Hola 👋, construyo aplicaciones web de punta a punta: del modelo de datos a la interfaz.**
+
+<a href="https://www.instagram.com/juandy_ortm/">
+  <img src="https://img.shields.io/badge/Instagram-@juandy__ortm-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram de juandy_ortm" />
+</a>
+<a href="https://github.com/Juandy36">
+  <img src="https://img.shields.io/badge/GitHub-Juandy36-24292e?style=for-the-badge&logo=github&logoColor=white" alt="GitHub de Juandy36" />
+</a>
+
+</div>
+
+---
+
+## 🛠️ Stack
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Juandy36&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://streak-stats.demolab.com?user=Juandy36&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Juandy36&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+
+| Área | Tecnologías |
+| :--- | :---: |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=ts,js,nextjs,angular,tailwind&theme=dark" alt="TypeScript, JavaScript, Next.js, Angular, Tailwind CSS" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=cs,dotnet,py,prisma&theme=dark" alt="C#, .NET, Python, Prisma" /> |
+| **Bases de datos** | <img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="PostgreSQL" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48" alt="SQL Server" /> |
+| **Herramientas** | <img src="https://skillicons.dev/icons?i=git,github&theme=dark" alt="Git, GitHub" /> |
+
 </div>
 
-###
+---
 
-<br clear="both">
+## 📊 Estadísticas
 
-<img align="right" height="189" src="https://media.giphy.com/media/o6S51npJYQM48/giphy.gif?cid=790b76116hsqpfw72h6yv9hvhnwsldprb74v2hrla3g3djr6&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
+<div align="center">
 
-###
+<img src="https://github-readme-stats.vercel.app/api?username=Juandy36&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=12" width="49%" alt="Estadísticas de GitHub" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Juandy36&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&border_radius=12" width="49%" alt="Lenguajes más usados" />
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" alt="nextjs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="50" alt="angular logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="50" alt="tailwindcss logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="c# logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain.svg" height="50" alt=".net logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="postgresql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="50" alt="sql server logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="50" alt="prisma logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo" />
+<img src="https://streak-stats.demolab.com?user=Juandy36&mode=daily&theme=tokyonight&hide_border=true&border_radius=12" width="98%" alt="Racha de contribuciones" />
+
 </div>
 
-###
-
-<div align="left">
-  <a href="https://www.instagram.com/juandy_ortm/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="55" height="45" alt="instagram logo" />
-  </a>
-</div>
-
-###
-
-<div align="left">
-  <a href="https://open.spotify.com/user/92ajpnjucz3root4bxap8sqam">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=92ajpnjucz3root4bxap8sqam&count=5&unique=false" alt="spotify recently played" />
-  </a>
-</div>
-
-###
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:bb9af7,100:7aa2f7&height=80&section=footer" alt="" width="100%" />
