@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:bb9af7&height=140&section=header&text=Juan%20Diego%20Ortiz&fontSize=40&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Developer&descSize=18&descAlignY=65" alt="Juan Diego Ortiz, Full-Stack Developer" width="100%" />
 
-**Hola 👋, construyo aplicaciones web de punta a punta: del modelo de datos a la interfaz.**
+**Hola, construyo aplicaciones web de punta a punta: del modelo de datos a la interfaz.**
 
 <a href="https://www.instagram.com/juandy_ortm/">
   <img src="https://img.shields.io/badge/Instagram-@juandy__ortm-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram de juandy_ortm" />
@@ -15,7 +15,7 @@
 
 ---
 
-## 🛠️ Stack
+## Stack
 
 <div align="center">
 
@@ -30,7 +30,7 @@
 
 ---
 
-## 📊 Estadísticas
+## Estadísticas
 
 <div align="center">
 
